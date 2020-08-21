@@ -6,7 +6,7 @@
 </p>
 
 ## Usage
-1. Include one of the link in to HTML
+1. Include one of the link CSS or Javascript in to HTML
 #### CSS
  ```html
  <link href="https://dunggramer.github.io/font-awesome-pro/css/all.min.css" rel="stylesheet" type="text/css" />
@@ -17,7 +17,7 @@
 ```html
 <link href="https://cdn.staticaly.com/gh/DungGramer/font-awesome-pro/498e/css/all.min.css" rel="stylesheet" type="text/css" />
 ```
-#### JS
+#### Javascript
 ```js
 <script src="https://dunggramer.github.io/font-awesome-pro/js/all.min.js" defer></script>
 ```
