@@ -8,12 +8,15 @@
 ## Usage
 1. Include one of the link CSS or Javascript in to HTML
 #### CSS
+
  ```html
  <link href="https://dunggramer.github.io/font-awesome-pro/css/all.min.css" rel="stylesheet" type="text/css" />
  ```
+ 
  ```html
 <link href="https://gitcdn.xyz/repo/DungGramer/font-awesome-pro/master/css/all.min.css" rel="stylesheet" type="text/css"/>
 ```
+
 ```html
 <link href="https://cdn.staticaly.com/gh/DungGramer/font-awesome-pro/498e/css/all.min.css" rel="stylesheet" type="text/css" />
 ```
@@ -27,7 +30,8 @@
 ```js
 <script src="https://cdn.staticaly.com/gh/DungGramer/font-awesome-pro/498e/js/all.min.js" defer></script>
 ```
-2. After that, find icon in [https://fontawesome.com/](https://fontawesome.com/)
+2. After that, find icon in [https://fontawesome.com/](https://fontawesome.com/)  
+<br />  
 
 ## Tutorial
 ### Larger Icons
@@ -39,6 +43,7 @@ The `fa-lg` (33% increase), `fa-2x`, `fa-3x`, `fa-4x`, or `fa-5x` classes are us
 <i class="fa fa-car fa-4x"></i>
 <i class="fa fa-car fa-5x"></i>
 ```
+
 ### Animated Icons
 The `fa-spin` class gets any icon to rotate, and the `fa-pulse` class gets any icon to rotate with 8 steps.
 ```html
