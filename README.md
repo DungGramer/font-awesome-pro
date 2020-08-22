@@ -9,27 +9,27 @@
 1. Include one of the link CSS or Javascript in to HTML
 #### CSS
 
- ```html
- <link href="https://dunggramer.github.io/font-awesome-pro/css/all.min.css" rel="stylesheet" type="text/css" />
- ```
- 
- ```html
-<link href="https://gitcdn.xyz/repo/DungGramer/font-awesome-pro/master/css/all.min.css" rel="stylesheet" type="text/css"/>
-```
+   ```html
+   <link href="https://dunggramer.github.io/font-awesome-pro/css/all.min.css" rel="stylesheet" type="text/css" />
+   ```
 
-```html
-<link href="https://cdn.staticaly.com/gh/DungGramer/font-awesome-pro/498e/css/all.min.css" rel="stylesheet" type="text/css" />
-```
+   ```html
+  <link href="https://gitcdn.xyz/repo/DungGramer/font-awesome-pro/master/css/all.min.css" rel="stylesheet" type="text/css"/>
+  ```
+
+  ```html
+  <link href="https://cdn.staticaly.com/gh/DungGramer/font-awesome-pro/498e/css/all.min.css" rel="stylesheet" type="text/css" />
+  ```
 #### Javascript
-```js
-<script src="https://dunggramer.github.io/font-awesome-pro/js/all.min.js" defer></script>
-```
-```js
-<script src="https://gitcdn.xyz/repo/DungGramer/font-awesome-pro/master/js/all.min.js" defer></script>
-```
-```js
-<script src="https://cdn.staticaly.com/gh/DungGramer/font-awesome-pro/498e/js/all.min.js" defer></script>
-```
+  ```js
+  <script src="https://dunggramer.github.io/font-awesome-pro/js/all.min.js" defer></script>
+  ```
+  ```js
+  <script src="https://gitcdn.xyz/repo/DungGramer/font-awesome-pro/master/js/all.min.js" defer></script>
+  ```
+  ```js
+  <script src="https://cdn.staticaly.com/gh/DungGramer/font-awesome-pro/498e/js/all.min.js" defer></script>
+  ```
 2. After that, find icon in [https://fontawesome.com/](https://fontawesome.com/)  
 <br />  
 
@@ -83,3 +83,16 @@ The `fa-fw` class is used to set icons at a fixed width. This class is useful wh
   <a href="#" class="list-group-item"><i class="fa fa-cog fa-fw"></i> Settings</a>
 </div>
 ```
+### Change Color in FA 5
++ Changing Opacity
+  ```html
+  <i class="fad fa-bus-alt" style="--fa-secondary-opacity: 0.60"></i>
+  ```
++ Swapping Layer Opacity
+  ```html
+  <i class="fad fa-camera fa-swap-opacity"></i>
+  ```
++ Swapping Layer Opacity
+  ```html
+  <i class="fad fa-bus-alt" style="--fa-primary-color: orangered;"></i>
+  ```
