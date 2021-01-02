@@ -12,7 +12,9 @@
    ```html
    <link href="https://dunggramer.github.io/font-awesome-pro/css/all.min.css" rel="stylesheet" type="text/css" />
    ```
-
+   ```css
+   @import url('https://dunggramer.github.io/font-awesome-pro/css/all.min.css');
+   ```
    ```html
   <link href="https://gitcdn.xyz/repo/DungGramer/font-awesome-pro/master/css/all.min.css" rel="stylesheet" type="text/css"/>
   ```
